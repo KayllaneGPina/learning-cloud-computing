@@ -24,7 +24,7 @@
 
    
 
-   ![ModeloResposabilidadeCompartilhada](C:\Users\55639\Downloads\ModeloResposabilidadeCompartilhada.svg)
+   ![ModeloResposabilidadeCompartilhada](https://learn.microsoft.com/pt-br/training/wwl-azure/describe-cloud-compute/media/shared-responsibility-b3829bfe.svg)
 
    
 
