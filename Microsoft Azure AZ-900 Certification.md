@@ -136,7 +136,7 @@
    
           
    
-      5. *Segurança*: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
+     5. *Segurança*: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
       
          -  **Se você quiser o controle máximo da segurança**, a **infraestrutura como serviço** (**IaaS**) fornecerá recursos físicos, mas permitirá que você gerencie os sistemas operacionais e o software instalado, incluindo aplicação de patches e manutenção.
          
