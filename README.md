@@ -6,7 +6,7 @@
 1. Conceito de Nuvem
    - [x] Computação da Nuvem
    - [x] Como Entregar seu Desafio de Projeto
-   - [x] Desafio de Projeto - [Microsoft Azure: Nuvem em Ação]([learning-cloud-computing/Microsoft Azure AZ-900 Certification.md at main · KayllaneGPina/learning-cloud-computing (github.com)](https://github.com/KayllaneGPina/learning-cloud-computing/blob/main/Microsoft Azure AZ-900 Certification.md))
+   - [x] Desafio de Projeto - [Microsoft Azure: Nuvem em Ação](https://github.com/KayllaneGPina/learning-cloud-computing/blob/main/Microsoft%20Azure%20AZ-900%20Certification.md)
    - [x] Benefícios da Nuvem
    - [ ] Explorando os Benefícios da Azure
    - [ ] Tipos de Serviço de Nuvem
